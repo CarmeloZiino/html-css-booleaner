@@ -1,0 +1,12 @@
+
+
+header {
+  background-color: cornflowerblue;
+  background-image: url(./img/pattern.png);
+  box-sizing: content-box;
+}
+
+div {
+  padding-top: 100px;
+  width: 15%;
+}
