@@ -1,4 +1,7 @@
-
+body {
+    margin: 0px;
+    padding: 0px;
+}
 
 header {
   background-color: cornflowerblue;
@@ -6,7 +9,24 @@ header {
   box-sizing: content-box;
 }
 
-div {
+
+#logo {
   padding-top: 100px;
   width: 15%;
+}
+
+.titolo-articolo {
+    font-size: 60pt;
+
+}
+
+.informazioni-articolo {
+    color: gray;
+    font-size: 30pt;
+    padding: 0;
+
+}
+
+#blue {
+    color: rgb(14, 105, 223);
 }
