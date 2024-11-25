@@ -1,6 +1,6 @@
 body {
-    margin: 0px;
-    padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
 
 header {
@@ -9,24 +9,65 @@ header {
   box-sizing: content-box;
 }
 
-
 #logo {
   padding-top: 100px;
   width: 15%;
 }
 
 .titolo-articolo {
-    font-size: 60pt;
-
+  font-size: 50pt;
 }
 
 .informazioni-articolo {
-    color: gray;
-    font-size: 30pt;
-    padding: 0;
-
+  color: gray;
+  font-size: 20pt;
+  padding: 0;
 }
 
 #blue {
-    color: rgb(14, 105, 223);
+  color: rgb(14, 105, 223);
+}
+
+.tim {
+  size: 200px;
+}
+
+.photo {
+  font-size: 12pt;
+}
+
+p {
+  font-size: 18pt;
+}
+
+.giallo {
+  background-color: yellow;
+}
+
+ul {
+  font-size: 18pt;
+}
+
+table {
+  border-collapse: collapse;
+  font-size: 18pt;
+}
+
+.prima-colonna,
+.seconda-colonna {
+  width: 25%;
+}
+
+.table-header {
+  background-color: #4ea0ff;
+  color: white;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.table-pari {
+  background-color: #b1e5f2;
+}
+
+.table-dispari {
 }
