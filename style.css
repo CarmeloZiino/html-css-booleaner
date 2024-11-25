@@ -1,10 +1,11 @@
 body {
   margin: 0px;
   padding: 0px;
+  
 }
 
 header {
-  background-color: cornflowerblue;
+  background-color: rgb(57, 156, 237);
   background-image: url(./img/pattern.png);
   box-sizing: content-box;
 }
@@ -70,4 +71,40 @@ table {
 }
 
 .table-dispari {
+}
+
+footer {
+    padding: 10px;
+}
+
+strong {
+    color: gray;
+    font-size: 15pt;
+    padding-bottom: 50px;
+}
+
+h2 {
+    font-size: 15pt;
+    color: white;
+padding: 10px;
+}
+
+
+#ph1 {
+    background: url(./img/monitor.jpg) no-repeat ;
+    background-size: cover;
+width: 300px;
+height: 200px;
+
+
+}
+
+#ph2 {
+    background: url(./img/graph.jpg) no-repeat ;
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+    
+
+
 }
