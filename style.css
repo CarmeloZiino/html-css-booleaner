@@ -10,13 +10,20 @@ header {
   box-sizing: content-box;
 }
 
+main,
+footer {
+    padding: 0 20%;
+}
+
 #logo {
   padding-top: 100px;
-  width: 15%;
+  padding-left: 20%;
+  width: 140px;
 }
 
 .titolo-articolo {
   font-size: 50pt;
+  color: black;
 }
 
 .informazioni-articolo {
@@ -71,10 +78,6 @@ table {
 }
 
 .table-dispari {
-}
-
-footer {
-    padding: 10px;
 }
 
 strong {
