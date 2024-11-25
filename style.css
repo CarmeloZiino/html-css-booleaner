@@ -1,7 +1,6 @@
 body {
   margin: 0px;
   padding: 0px;
-  
 }
 
 header {
@@ -12,7 +11,7 @@ header {
 
 main,
 footer {
-    padding: 0 20%;
+  padding: 0 20%;
 }
 
 #logo {
@@ -34,10 +33,6 @@ footer {
 
 #blue {
   color: rgb(14, 105, 223);
-}
-
-.tim {
-  size: 200px;
 }
 
 .photo {
@@ -81,33 +76,27 @@ table {
 }
 
 strong {
-    color: gray;
-    font-size: 15pt;
-    padding-bottom: 50px;
+  color: gray;
+  font-size: 15pt;
+  padding-bottom: 50px;
 }
 
 h2 {
-    font-size: 15pt;
-    color: white;
-padding: 10px;
+  font-size: 15pt;
+  color: white;
+  padding: 10px;
 }
 
-
 #ph1 {
-    background: url(./img/monitor.jpg) no-repeat ;
-    background-size: cover;
-width: 300px;
-height: 200px;
-
-
+  background: url(./img/monitor.jpg) no-repeat;
+  background-size: cover;
+  width: 300px;
+  height: 200px;
 }
 
 #ph2 {
-    background: url(./img/graph.jpg) no-repeat ;
-    background-size: cover;
-    width: 300px;
-    height: 200px;
-    
-
-
+  background: url(./img/graph.jpg) no-repeat;
+  background-size: cover;
+  width: 300px;
+  height: 200px;
 }
